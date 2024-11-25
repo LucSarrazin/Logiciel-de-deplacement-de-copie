@@ -1,10 +1,9 @@
+import datetime
+import msvcrt
 import os
 import shutil
 import re
 import PyPDF2
-import datetime
-import msvcrt
-
 fichier_source = input("Entrez la source du fichier ")
 
 x = datetime.datetime.now()
