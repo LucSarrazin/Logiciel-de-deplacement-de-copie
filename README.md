@@ -26,9 +26,9 @@ Logiciel de Déplacement de Copie est un outil conçu pour faciliter le déplace
 Pour installer le logiciel, suivez ces étapes :
 
 1. Clonez le dépôt :
-   ```bash
+ ```bash
    git clone https://github.com/LucSarrazin/Logiciel-de-deplacement-de-copie.git
-    ```
+ ```
 
 2. Accédez au répertoire du projet :
 
