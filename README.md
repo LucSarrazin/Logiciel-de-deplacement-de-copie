@@ -57,7 +57,6 @@ Pour installer le logiciel, suivez ces étapes :
 
 4. **Cliquez sur le bouton "Déplacer" pour finaliser l'opération.**
 
----
 
 ## Contribuer
 
@@ -73,13 +72,11 @@ Les contributions sont les bienvenues ! Pour contribuer au projet :
 
 5. **Ouvrez une Pull Request.**
 
----
 
 ## License
 
 Ce projet est un projet scolaire personnel. Il est destiné à des fins éducatives et ne doit pas être utilisé à des fins commerciales.
 
----
 
 ## Auteurs
 
