@@ -77,7 +77,7 @@ Les contributions sont les bienvenues ! Pour contribuer au projet :
 
 ## License
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est un projet scolaire personnel. Il est destiné à des fins éducatives et ne doit pas être utilisé à des fins commerciales.
 
 ---
 
