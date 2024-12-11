@@ -46,3 +46,27 @@ Pour installer le logiciel, suivez ces étapes :
  ```bash
    npm start
  ```
+
+#Utilisation
+
+1.Ouvrez le logiciel.
+2.Sélectionnez le fichier que vous souhaitez déplacer.
+3.Choisissez le dossier de destination.
+4.Cliquez sur le bouton "Déplacer" pour finaliser l'opération.
+
+#Contribuer
+
+Les contributions sont les bienvenues ! Pour contribuer au projet :
+
+1.Forkez le dépôt.
+2.Créez une nouvelle branche (git checkout -b feature/YourFeature).
+3.Apportez vos modifications et validez (git commit -m 'Ajout d'une nouvelle fonctionnalité').
+4.Poussez vos changements (git push origin feature/YourFeature).
+5.Ouvrez une Pull Request.
+
+#License
+
+Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
+
+#Auteurs
+* **Luc Sarrazin - LucSarrazin
