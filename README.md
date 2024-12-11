@@ -49,10 +49,10 @@ Pour installer le logiciel, suivez ces étapes :
 
 ## Utilisation
 
-* 1.Ouvrez le logiciel.
-* 2.Sélectionnez le fichier que vous souhaitez déplacer.
-* 3.Choisissez le dossier de destination.
-* 4.Cliquez sur le bouton "Déplacer" pour finaliser l'opération.
+ **1.Ouvrez le logiciel.**
+ 2.Sélectionnez le fichier que vous souhaitez déplacer.
+ 3.Choisissez le dossier de destination.
+ 4.Cliquez sur le bouton "Déplacer" pour finaliser l'opération.
 
 ## Contribuer
 
