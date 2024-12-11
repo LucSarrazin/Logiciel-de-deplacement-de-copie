@@ -47,14 +47,14 @@ Pour installer le logiciel, suivez ces étapes :
    npm start
  ```
 
-##Utilisation
+## Utilisation
 
 1.Ouvrez le logiciel.
 2.Sélectionnez le fichier que vous souhaitez déplacer.
 3.Choisissez le dossier de destination.
 4.Cliquez sur le bouton "Déplacer" pour finaliser l'opération.
 
-##Contribuer
+## Contribuer
 
 Les contributions sont les bienvenues ! Pour contribuer au projet :
 
@@ -64,7 +64,7 @@ Les contributions sont les bienvenues ! Pour contribuer au projet :
 4.Poussez vos changements (git push origin feature/YourFeature).
 5.Ouvrez une Pull Request.
 
-##License
+## License
 
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
